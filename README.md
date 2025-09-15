@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Hi, I'm Nouhaila AZLAG 👩‍💻</h1>
+  <hr width="75%">
+</div>
 
-<!--
-**NouhailaAZ/NouhailaAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
+🎓 State Engineer in Computer Engineering, specialized in Software Engineering.  
+💻 Passionate about Full Stack development, with a preference for Java environments.  
+🌱 Currently working on projects with Laravel, React, and React Native (Expo).  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages**: Java, JavaScript, TypeScript, SQL  
+- **Frameworks**: Spring Boot, Laravel, React, React Native, Angular  
+- **Tools**: Git, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Nouhaila's GitHub stats](https://github-readme-stats.vercel.app/api?username=NouhailaAZ&show_icons=true&theme=tokyonight)
+
+## 📫 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/nouhaila-azlag-26220822b/)  
+- 💌 [Email](mailto:nouhaila.azlag.17@gmail.com)
