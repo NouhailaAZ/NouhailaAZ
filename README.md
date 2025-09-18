@@ -130,13 +130,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NouhailaAZ&layout=compact&theme=tokyonight)
 
 </div>
-
+<!--
 ### 📈 Contribution Activity
 <div align="center">
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NouhailaAZ&theme=tokyo-night)
 
 </div>
+-->
 
 ### 🎯 Current Focus
 - 🔭 Working on **Full Stack Web Applications**
